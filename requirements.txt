@@ -1,0 +1,18 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+keras
+torch
+jupyter notebook
+joblib
+opencv-python
+nltk
+spacy
+transformers
+flask
+streamlit
